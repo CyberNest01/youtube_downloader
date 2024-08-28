@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube Downloader</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="form-container">
+        <form action="/submit-form" method="POST">
+            <div class="form-group">
+                <label for="url">URL:</label>
+                <input type="text" id="url" name="url" required>
+            </div>
+            <div class="form-group">
+                <label for="url_type">URL Type:</label>
+                <select id="url_type" name="url_type" required>
+                    <option value="1">Solo</option>
+                    <option value="2">Play List</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="resolution">Resolution:</label>
+                <select id="resolution" name="resolution" required>
+                    <option value="480">480</option>
+                    <option value="720">720</option>
+                    <option value="1080">1080</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
